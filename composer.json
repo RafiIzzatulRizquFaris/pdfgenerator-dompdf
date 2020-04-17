@@ -1,0 +1,13 @@
+{
+    "name": "risqu/pdfgenerator",
+    "description": "micro project to generate a pdf file",
+    "authors": [
+        {
+            "name": "quifar",
+            "email": "42423920+RafiIzzatulRizquFaris@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
